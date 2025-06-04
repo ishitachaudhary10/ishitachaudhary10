@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishita Chaudhary</h1>
+<h1 align="center">Hi ✌🏻, I'm Ishita Chaudhary</h1>
 <h3 align="center">I am an Artificial Intelligence & Machine Learning student with a keen interest in technology and design.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
